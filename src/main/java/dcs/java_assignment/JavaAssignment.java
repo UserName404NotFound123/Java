@@ -15,5 +15,9 @@ public class JavaAssignment {
         System.out.println("Are you a stupid?");
         System.out.println("fuck you");
         Sleep.printSleep();
+        
+        Calculate cal = new Calculate(1, 4);
+        
+        System.out.println(cal.getCalculation());
     }
 }
