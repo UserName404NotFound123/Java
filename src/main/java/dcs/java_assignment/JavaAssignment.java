@@ -8,10 +8,12 @@ package dcs.java_assignment;
  *
  * @author TzPing
  */
-public class Java_assignment {
+public class JavaAssignment {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Are you a stupid?")
+        System.out.println("Are you a stupid?");
+        System.out.println("fuck you");
+        Sleep.printSleep();
     }
 }
