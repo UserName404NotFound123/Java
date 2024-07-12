@@ -11,4 +11,5 @@
         <maven.compiler.target>20</maven.compiler.target>
         <exec.mainClass>dcs.java_assignment.Java_assignment</exec.mainClass>
     </properties>
+    <name>Java_testing</name>
 </project>
