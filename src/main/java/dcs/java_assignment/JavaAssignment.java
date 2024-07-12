@@ -14,6 +14,7 @@ public class JavaAssignment {
         System.out.println("Hello World!");
         System.out.println("Are you a stupid?");
         System.out.println("fuck you");
+        System.out.println("Stupid weihe");
         Sleep.printSleep();
         
         java.awt.EventQueue.invokeLater(new Runnable() {
